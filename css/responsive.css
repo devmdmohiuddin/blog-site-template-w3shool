@@ -1,0 +1,11 @@
+@media screen and (max-width: 600px){
+    .span_2_of_3{
+        width: 100%;
+    }
+    .span_1_of_3{
+        width: 100%;
+    }
+    .box3{
+        margin-bottom: 4rem;
+    }
+}
